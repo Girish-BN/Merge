@@ -1,7 +1,7 @@
-content = """Cloud Computing
+content = """Cloud Computing is a 
 
 Cloud computing is the delivery of computing services over the internet.
-Popular providers include AWS, Azure, and GCP.
+Popular providers include AWS, Azure, and GCP etc.
 """
 
 with open("could.txt", "w", encoding="utf-8") as file:
