@@ -1,0 +1,7 @@
+#!/bin/bash
+
+USERNAME=devops-user
+
+aws iam create-user --user-name $USERNAME
+
+echo "IAM User created."
